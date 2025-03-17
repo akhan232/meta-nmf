@@ -176,7 +176,7 @@ def load_data(data_name, noise_level=0.0):
         ValueError: If an invalid data_name is provided.
     """
     if data_name == 'blobs':
-        X_train, y_train, X_test, y_test, num_classes = blobs(n=1000, d=50, c=5, noise=noise_level)
+        X_train, y_train, X_test, y_test, num_classes = blobs(n=10000, d=500, c=5, noise=noise_level)
     elif data_name == 'faces':
         X_train, y_train, X_test, y_test, num_classes = faces(noise=noise_level)
     elif data_name == 'digits':

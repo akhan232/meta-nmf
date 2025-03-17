@@ -110,9 +110,12 @@ maxiter_inner = 100
 nb_tasks = 5
 task_size = 50
 
+#---------------------------------------------------
+# Params need to be manually changed in get_data.py
+#---------------------------------------------------
 params = {
-    'samples': 1000,
-    'dims': 50,
+    'samples': 10000,
+    'dims': 500,
     'c': 5,
     'noise': 0.1
 }
