@@ -13,7 +13,7 @@ Moreover, it follows this flowchart:
   <img src="https://github.com/user-attachments/assets/6bcc6d45-65c3-45cb-a175-2c5988d02b21" alt="">
 </figure>
 
-It has been applied on five datasets to validate its applicability and performance:
+It has been applied to five datasets to validate its applicability and performance:
 1. Blobs (synthetic)
 2. Coil20
 3. Digits
