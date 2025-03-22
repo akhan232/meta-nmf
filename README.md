@@ -30,7 +30,7 @@ Results show significant improvements in unsupervised clustering performance in 
 Following is a snapshot of results:
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/e70c1c4e-06cb-4e23-aad6-7db282563748" alt="">
+  <img src="https://github.com/user-attachments/assets/d3cf9143-65c6-4b54-a26a-7799b4ed139f" alt="">
 </figure>
 
 Furthermore, the ability to extract important facial components is also presented and proposed approach has shown significant positive impact.
